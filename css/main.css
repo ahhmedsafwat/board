@@ -24,7 +24,7 @@ html {
 }
 @media (min-width: 972px) {
   #fylo {
-    background: url(../images/bg-desktop.png) no-repeat;
+    background: url(../image/bg-desktop.png) no-repeat;
     background-position: bottom;
     background-color: hsl(229, 57%, 11%);
     height: 100vh;
@@ -178,7 +178,7 @@ html {
 
 @media (max-width: 375px) {
   #fylo {
-    background: url(../images/bg-mobile.png);
+    background: url(../image/bg-mobile.png);
     background-size: cover;
     height: 100vh;
   }
